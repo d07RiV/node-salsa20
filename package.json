@@ -16,5 +16,6 @@
         "cipher"
     ],
     "main": "./salsa20.min.js",
+    "types": "./salsa20.d.ts",
     "license": "GPLv3"
 }
